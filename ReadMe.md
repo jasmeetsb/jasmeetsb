@@ -2,6 +2,7 @@
 AI Engineer at Google Applied AI Engineering Team!
 
 ##
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=jasmeetsb&theme=transparent)
 ##
 
 ## 💻Tech Stack
